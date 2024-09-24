@@ -1,0 +1,25 @@
+.block-box{
+    display: block;
+    border: 2px solid darkblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    text-align:center;
+ 
+}
+.inline-box{
+    display: inline;
+    border: 2px solid lightgreen;
+    padding: 20px;
+    margin: 10px;
+    background-color: greenyellow;
+}
+.inline-block-box{
+    display:inline-block;
+    border: 2px solid maroon;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightcoral;
+    width: 300px;
+    text-align: center;
+}
